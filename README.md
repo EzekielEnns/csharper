@@ -6,3 +6,7 @@ you need it
 
 we will be implementing omnisharp [lsp client and server](https://github.com/OmniSharp/csharp-language-server-protocol/blob/master/docs/lsp.md)
 
+
+# my target
+I wanna make it so that i can spawn one of thse lang server for neovim
+
